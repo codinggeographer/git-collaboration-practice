@@ -1,2 +1,3 @@
-Hello!
-Hows it going!
+# Hello there fellow coder!
+
+## How is your day going?
